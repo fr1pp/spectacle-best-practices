@@ -1,6 +1,6 @@
 # Theme System
 
-Spectacle's theme system is built on [styled-system](https://styled-system.com/). A theme is a 2-level-deep object of labeled keys and CSS property values that you pass to `<Deck>`. Every styled component reads from this theme first when you pass it a label, and falls back to raw CSS otherwise.
+Spectacle's theme system is built on [styled-system](https://github.com/styled-system/styled-system). A theme is a 2-level-deep object of labeled keys and CSS property values that you pass to `<Deck>`. Every styled component reads from this theme first when you pass it a label, and falls back to raw CSS otherwise.
 
 ## The minimum theme
 
